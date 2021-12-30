@@ -13,7 +13,7 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <p>削除が完了しました</p>
+        <p>削除完了しました</p>
         <a href="index.php">ログインページへ</a>
     </body>
 </html>
